@@ -1,0 +1,108 @@
+.section1_content {
+  display: flex; }
+
+.section1_content1 {
+  width: 20%;
+  margin-left: 50px;
+  position: relative; }
+
+.content_text {
+  padding: 20px;
+  background-color: white; }
+
+.kihieu::before {
+  content: ">";
+  display: block;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  margin-left: 70px; }
+
+.section2_content {
+  display: flex; }
+
+.section2_content1 {
+  width: 33%;
+  margin-left: 50px; }
+
+.section3 {
+  display: flex; }
+
+.section3_0 {
+  width: calc(100%/3); }
+
+.section3_1 {
+  color: white;
+  font-size: 85px;
+  padding: 50px;
+  margin-left: 50px;
+  text-align: center;
+  background-color: black; }
+
+.section3_2 {
+  padding: 10px;
+  color: white;
+  font-size: 32px;
+  background-color: aquamarine; }
+
+.section3_2_1 {
+  text-align: center;
+  background-color: black;
+  width: 40%; }
+
+.section3_2_2 {
+  text-align: center;
+  background-color: black;
+  text-align: left;
+  padding: 20px; }
+
+.section3_3 {
+  color: black;
+  font-size: 20px;
+  margin: 20px; }
+
+.section3_3_1 {
+  background-color: white;
+  margin-top: 0; }
+
+.section3_3_2 {
+  background-color: white; }
+
+.section4_1 {
+  display: flex;
+  margin-left: 50px; }
+
+.section4_1_1 {
+  width: 30%;
+  background-color: blueviolet; }
+
+.section4_1_2 {
+  background-color: black;
+  width: 70%;
+  color: white;
+  font-size: 15px;
+  padding: 50px; }
+
+.section4_1_2 h1 {
+  font-size: 60px; }
+
+.section4_2 {
+  margin: 30px 0px;
+  display: flex;
+  margin-left: 50px; }
+
+.section4_2_1 {
+  font-size: 20px;
+  margin-right: 20px;
+  padding: 15px;
+  color: black;
+  background-color: white; }
+
+.section1_title {
+  text-align: center;
+  margin: 50px 0px; }
+
+body {
+  background-color: gray; }
+
+/*# sourceMappingURL=trangchu.css.map */
